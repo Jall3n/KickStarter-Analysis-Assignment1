@@ -1,9 +1,9 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-Utilizing Mircrosoft Excel we are to take the kickstarter data and create visualization tools to help find 
-### Purpose
 
+### Purpose
+The purpose of the assignment is to utilize the skills we learned in excel to help Louise find out more information about other play's campaign goals. Additionally, we want to present a story using visualization methods based on the kickstarter data provided through line charts.  
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
