@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-
+Utilizing Mircrosoft Excel we are to take the kickstarter data and create visualization tools to help find 
 ### Purpose
 
 ## Analysis and Challenges
