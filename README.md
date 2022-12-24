@@ -14,7 +14,7 @@ The purpose of the assignment is to utilize the skills we learned in excel to he
 
 ### Challenges and Difficulties Encountered
 - The first challenge that I encountered invovled splitting out the date conversion into months on the pivot table. However, found out I can right click on the date in the pivot table and group it into month instead of year and day. 
-- The second challenge involved setting up the countifs statement, but found out I needed adjust my initial formula. My error was stemming from the goal dollar amount range in the formula. I had to add criterias for the ranges such as ">=1000" and "<=4999"
+- The second challenge involved setting up the countifs statement, but found out I needed to adjust my initial formula. My error was stemming from the goal dollar amount range in the formula. I had to add criterias for the ranges such as ">=1000" and "<=4999"
 
 ## Results
 
