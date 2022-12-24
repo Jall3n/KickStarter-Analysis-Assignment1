@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-The purpose of the assignment is to utilize the skills we learned in excel to help Louise find out more information about other play's campaign goals. Additionally, we want to present a story using visualization methods based on the kickstarter data provided through line charts.  
+The purpose of the assignment is to utilize the skills we learned in excel to help Louise find out more information about the campaign goals of other theater plays. Additionally, we want to present a story using visualization methods based on the kickstarter data provided through line charts.  
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
