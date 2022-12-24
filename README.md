@@ -9,8 +9,8 @@ The purpose of the assignment is to utilize the skills we learned in excel to he
 ### Analysis of Outcomes Based on Launch Date
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/119149740/209416901-e168ac74-73ef-4d50-83ab-c0d4e3d39432.png)
 
-
 ### Analysis of Outcomes Based on Goals
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/119149740/209416985-a7eb019a-fb1f-4580-a1ae-178a86a90fd4.png)
 
 ### Challenges and Difficulties Encountered
 
