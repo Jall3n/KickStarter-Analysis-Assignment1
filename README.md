@@ -25,3 +25,6 @@ The purpose of the assignment is to utilize the skills we learned in excel to he
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
+  - A table or graph of the amount pledged for successful/failed campaigns compared to the goal amounts
+  - Instead of month graph the Theater Outcomes by year
+  - Can breakout by country
