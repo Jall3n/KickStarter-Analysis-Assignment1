@@ -23,8 +23,13 @@ The purpose of the assignment is to utilize the skills we learned in excel to he
 - What can you conclude about the Outcomes based on Goals?
 
 - What are some limitations of this dataset?
+  - Certain countries may have more resources compared to others
+  - The amount of interest in a country to watch a play
+  - The actors and actresses' ability to perform and their status/recognition
+  - The venue and marketability of the play
 
 - What are some other possible tables and/or graphs that we could create?
   - A table or graph of the amount pledged for successful/failed campaigns compared to the goal amounts
-  - Instead of month graph the Theater Outcomes by year
-  - Can breakout by country
+  - Can compare the number of backers with the dollar amounts pledged 
+  - Can use year instead of month for the Theater Outcomes
+  - Can breakout outcomes by country
