@@ -13,8 +13,8 @@ The purpose of the assignment is to utilize the skills we learned in excel to he
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/119149740/209416985-a7eb019a-fb1f-4580-a1ae-178a86a90fd4.png)
 
 ### Challenges and Difficulties Encountered
--The first challenge that I encountered invovled splitting out the date conversion into months on the pivot table. However, found out I can right click on the date in the pivot table and group it into month instead of year and day. 
--The second challenge involved setting up the countifs statement, but found out I needed adjust my initial formula. 
+- The first challenge that I encountered invovled splitting out the date conversion into months on the pivot table. However, found out I can right click on the date in the pivot table and group it into month instead of year and day. 
+- The second challenge involved setting up the countifs statement, but found out I needed adjust my initial formula. 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
