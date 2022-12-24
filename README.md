@@ -23,7 +23,7 @@ The purpose of the assignment is to utilize the skills we learned in excel to he
   2. Even though the month of December was close, overall, there were more successful outcomes for every month
 
 - What can you conclude about the Outcomes based on Goals?
-  Campaign goals that were less than 15,000 were more successful. However, except for a small number of outcomes within the 35,000 to 45,000 range the higher in goal amount the more likely you were to fail.
+- Campaign goals that were less than 15,000 were more successful. However, except for a small number of outcomes within the 35,000 to 45,000 range the higher in goal amount the more likely you were to fail.
 
 - What are some limitations of this dataset?
   - Certain countries may have more resources compared to others
