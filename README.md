@@ -14,7 +14,7 @@ The purpose of the assignment is to utilize the skills we learned in excel to he
 
 ### Challenges and Difficulties Encountered
 - The first challenge that I encountered invovled splitting out the date conversion into months on the pivot table. However, found out I can right click on the date in the pivot table and group it into month instead of year and day. 
-- The second challenge involved setting up the countifs statement, but found out I needed to adjust my initial formula. My error was stemming from the goal dollar amount range in the formula. I had to add criterias for the ranges such as ">=1000" and "<=4999"
+- The second challenge involved setting up the countifs statement, but found out I needed to adjust my initial formula. My error was stemming from the goal dollar amount range in the formula. I had to add criterias for the ranges such as ">=1000" and "<=4999".
 
 ## Results
 
@@ -23,13 +23,14 @@ The purpose of the assignment is to utilize the skills we learned in excel to he
   2. Even though the month of December was close, overall, there were more successful outcomes for every month
 
 - What can you conclude about the Outcomes based on Goals?
-  - Campaign goals that were less than 15,000 were more successful, which consisted of a larger number of outcomes. However, except for a small number of outcomes within the 35,000 to 45,000 range the higher in goal amount the more likely you were to fail.
+  - Campaign goals that were less than 15,000 were more successful, which consisted of a larger number of outcomes. However, except for a small number of outcomes within the 35,000 to 45,000 range, the higher the goal amount the more likely you were to fail.
 
 - What are some limitations of this dataset?
   - Certain countries may have more resources compared to others
-  - The amount of interest in a country to watch a play
   - The actors and actresses' ability to perform and their status/recognition
   - The venue and marketability of the play
+  - The size of sample
+  - The number of backers for the campaigns varied
 
 - What are some other possible tables and/or graphs that we could create?
   - A table or graph of the amount pledged for successful/failed campaigns compared to the goal amounts
